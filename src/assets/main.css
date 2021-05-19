@@ -1,0 +1,18 @@
+.mainContainer {
+  padding: 8px;
+}
+
+.ant-input-number {
+  width: 100% !important;
+}
+
+.bookingBtn {
+  width: 100%;
+}
+
+.loader {
+  padding-top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

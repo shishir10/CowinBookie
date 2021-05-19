@@ -1,0 +1,13 @@
+{
+    "label" : {
+        "selectDistrict" : "Select District",
+        "selectState" : "Select State",
+        "selectVaccCenter" : "Select Vaccination Center",
+        "startBooking" : "Start Booking",
+        "confirmOTP" : "Confirm OTP"
+    },
+    "message" : {
+        "pleaseEnter" : "Please Enter",
+        "pleaseSelect" : "Please Select"
+    }
+}
